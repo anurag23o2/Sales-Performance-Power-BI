@@ -26,7 +26,7 @@ This Power BI dashboard provides an interactive visualization of sales performan
 - Valid Power BI Service account (for cloud features)
 
 ### Installation
-1. Clone repository: `git clone [your-repo-url]`
+1. Clone repository: `git clone [https://github.com/anurag23o2/Sales-Performance-Power-BI.git]`
 2. Open `SalesPerformance.pbix` in Power BI Desktop
 3. Configure data source connections if prompted
 
